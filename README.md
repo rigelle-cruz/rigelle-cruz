@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rigelle-cruz
 - 👀 I’m interested in web development and design
-- 💞️ I’m looking to collaborate on building responsive and interactive web applications
+- 😊 I’m looking to collaborate on building responsive and interactive web applications
 - 📫 How to reach me: rigellecruz@gmail.com
 
 <!---
