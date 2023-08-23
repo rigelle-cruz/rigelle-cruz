@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development and design
 - 😊 I’m looking to collaborate on building responsive and interactive web applications
 - 📫 How to reach me: rigellecruz@gmail.com
+- [View My Portfolio](https://rigelle-cruz.github.io/portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
