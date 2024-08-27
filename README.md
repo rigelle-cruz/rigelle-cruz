@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rigelle-cruz
+- 👋 Hi, I’m @rigelle-cruz or you can call me "Rell" for short
 - 👀 I’m interested in web development and design
 - 😊 I’m looking to collaborate on building responsive and interactive web applications
 - 📫 How to reach me: rigellecruz@gmail.com
