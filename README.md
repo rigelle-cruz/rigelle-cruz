@@ -4,11 +4,11 @@ I’m a passionate full-stack web developer with a love for blending interactive
 
 Currently, I’m working on a fun little project that combines habit tracking with plant growth! As users complete their task/habit, they get to grow and collect different plants—turning productivity into a fun and rewarding experience.
 
-	•	🌱 What I’m working on: Building a habit tracker where users can grow and collect plants as they complete tasks.
-	•	💡 What excites me: Crafting responsive, visually appealing, and interactive web applications.
-	•	🤝 Let’s collaborate on: Interactive web development and UI/UX design projects.
-	•	📫 Reach out to me: rigellecruz@gmail.com
-	•	🌐 [View My Portfolio](https://rigelle-cruz.github.io/portfolio/)
+	🌱 What I’m working on: Building a habit tracker where users can grow and collect plants as they complete tasks.
+	💡 What excites me: Crafting responsive, visually appealing, and interactive web applications.
+	🤝 Let’s collaborate on: Interactive web development and UI/UX design projects.
+	📫 Reach out to me: rigellecruz@gmail.com
+	🌐 [View My Portfolio](https://rigelle-cruz.github.io/portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>
