@@ -2,7 +2,7 @@
 
 I’m a passionate full-stack web developer with a love for blending interactive design with smooth user experiences. 
 
-- 🌱 What I’m working on: Junction AI's email marketing personalisation product 
+- 🌱 What I’m working on: Product development for Junction AI
 - 💡 What excites me: Crafting responsive, visually appealing, and interactive web applications.
 - 🤝 Let’s collaborate on: Interactive web development and UI/UX design projects.
 - 📫 Reach out to me: rigellecruz@gmail.com
