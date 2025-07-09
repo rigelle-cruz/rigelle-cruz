@@ -1,4 +1,4 @@
-👋 Hey there! I’m Rell (aka @rigelle-cruz)
+👋 Hey there! I'm Rigelle (pronounced as "Ri-jhell") or you can call me "Rell" for short :)
 
 I’m a passionate full-stack web developer with a love for blending interactive design with smooth user experiences. 
 
