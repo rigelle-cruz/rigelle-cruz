@@ -1,6 +1,6 @@
 👋 Hey there! I'm Rigelle (pronounced as "Ri-jhell") or you can call me "Rell" for short :)
 
-I’m a passionate full-stack web developer with a love for blending interactive design with smooth user experiences. 
+I’m a passionate full-stack web developer with a love for blending interactive design with smooth user experiences. I'm always learning new things too!
 
 - 🌱 What I’m working on: App Development for Huddle (my personal passion project)
 - 💡 What excites me: Crafting responsive, visually appealing, and interactive web applications.
