@@ -3,10 +3,15 @@
 I’m a Software Engineer with full-stack experience and a background in digital marketing. I also love blending interactive design with smooth user experiences. Always learning new things too!  
 
 **🌱 What I’m working on:** App Development for [**Huddle**](https://rigelle-cruz.github.io/portfolio/) an on-going personal project
-**💡 What excites me:** Crafting responsive, visually appealing, and interactive web applications  
-**🤝 Let’s collaborate on:** Interactive web development and UI/UX design projects  
+
+**💡 What excites me:** Crafting responsive, visually appealing, and interactive web applications 
+
+**🤝 Let’s collaborate on:** Interactive web development and UI/UX design projects 
+
 **📫 Reach out to me:** [rigellecruz@gmail.com](mailto:rigellecruz@gmail.com)  
-**🌐 Portfolio:** [View My Portfolio](https://rigelle-cruz.github.io/portfolio/)  
+
+**🌐 Portfolio:** [View My Portfolio](https://rigelle-cruz.github.io/portfolio/) 
+
 **Connect with me:** <a href="https://www.linkedin.com/in/rigelle-cruz-9b8116204" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="15" height="15">
 </a>
