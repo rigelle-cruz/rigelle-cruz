@@ -1,231 +1,121 @@
-# 👋 Hey there! I'm **Rigelle**  
-Pronounced **"Ri-jhell"** — or **"Rell"** for short :)
+# 👋 Hey, I’m Rigelle Cruz
 
-I’m a Software Engineer with full-stack experience and a background in digital marketing. I also love blending interactive design with smooth user experiences. Always learning new things too!
+**Digital Creative · Marketer · Data Automation Specialist · Software Engineer · Full-Stack Developer**
 
-**💡 What excites me:** Crafting responsive, visually appealing, and interactive web applications  
+Pronounced **“Ri-jhell”** — or **Rell** for short.
 
-**🤝 Let’s collaborate on:** Interactive web development and UI/UX design projects  
-
-**📫 Reach out to me:** [rigellecruz@gmail.com](mailto:rigellecruz@gmail.com)  
-
-**🌐 Portfolio:** [View My Portfolio](https://rigelle-cruz.github.io/portfolio/)  
-
-**Connect with me:**  
-<a href="https://www.linkedin.com/in/rigelle-cruz-9b8116204" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">
-</a>
-
-&nbsp;
+[🌐 Portfolio](https://rigelle-cruz.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/rigelle-cruz-9b8116204) · [📫 Email](mailto:rigellecruz@gmail.com)
 
 ---
 
-## 💻 Frontend
+## ✨ About
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://reactjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="35" height="35" />
-      </a>
-      <br />React
-    </td>
-    <td align="center" width="70">
-      <a href="https://redux.js.org">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="35" height="35" />
-      </a>
-      <br />Redux
-    </td>
-    <td align="center" width="90">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
-      </a>
-      <br />JavaScript
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35" />
-      </a>
-      <br />TypeScript
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.w3.org/html/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
-      </a>
-      <br />HTML
-    </td>
-    <td align="center" width="70">
-      <a href="https://www.w3schools.com/css/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35" />
-      </a>
-      <br />CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="70">
-      <a href="https://sass-lang.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="35" height="35" />
-      </a>
-      <br />Sass
-    </td>
-    <td align="center" width="90">
-      <a href="https://tailwindcss.com/">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="35" height="35" />
-      </a>
-      <br />Tailwind
-    </td>
-    <td align="center" width="70">
-      <a href="https://vitejs.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="35" height="35" />
-      </a>
-      <br />Vite
-    </td>
-    <td align="center" width="100">
-      <a href="https://tanstack.com/query/latest">
-        <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query" width="35" height="35" />
-      </a>
-      <br />React Query
-    </td>
-    <td align="center" width="90">
-      <a href="https://storybook.js.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="35" height="35" />
-      </a>
-      <br />Storybook
-    </td>
-  </tr>
-</table>
+I have extensive and a background in digital marketing, full stack development and automating data workflows.  
+
+My work sits at the intersection of development, design, and digital experience — creating products that are functional, intuitive, and visually considered.
+
+I enjoy crafting interactive web applications, improving user journeys, and bringing creative ideas to life through code.
+
 
 ---
 
-## ⚙️ Backend
+## 🎯 Focus Areas
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://nodejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35" />
-      </a>
-      <br />Node.js
-    </td>
-    <td align="center" width="90">
-      <a href="https://expressjs.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="35" height="35" />
-      </a>
-      <br />Express
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35" />
-      </a>
-      <br />MySQL
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35" />
-      </a>
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="80">
-      <a href="https://knexjs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knexjs/knexjs-original.svg" alt="Knex.js" width="35" height="35" />
-      </a>
-      <br />Knex.js
-    </td>
-    <td align="center" width="80">
-      <a href="https://restfulapi.net/">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="REST API" width="35" height="35" />
-      </a>
-      <br />REST API
-    </td>
-  </tr>
-</table>
+- Full-stack web development
+- Interactive front-end experiences
+- UI/UX design and prototyping
+- Responsive and accessible interfaces
+- Digital marketing and creative strategy
+- 2D game development and pixel art workflows
 
 ---
 
-## 🧪 Testing
+## 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://jestjs.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="35" height="35" />
-      </a>
-      <br />Jest
-    </td>
-    <td align="center" width="80">
-      <a href="https://vitest.dev/">
-        <img src="https://vitest.dev/logo.svg" alt="Vitest" width="35" height="35" />
-      </a>
-      <br />Vitest
-    </td>
-  </tr>
-</table>
+### 📈 Digital Marketing
 
----
-
-## 🎨 Design & Creative Tools
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://www.figma.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35" />
-      </a>
-      <br />Figma
-    </td>
-    <td align="center" width="90">
-      <a href="https://www.adobe.com/products/photoshop.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="35" height="35" />
-      </a>
-      <br />Photoshop
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.adobe.com/products/premiere.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="35" height="35" />
-      </a>
-      <br />Premiere Pro
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.canva.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="35" height="35" />
-      </a>
-      <br />Canva
-    </td>
-    <td align="center" width="90">
-      <a href="https://wordpress.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="35" height="35" />
-      </a>
-      <br />WordPress
-    </td>
-  </tr>
-</table>
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=flat&logo=googlesearchconsole&logoColor=white)
+![Klaviyo](https://img.shields.io/badge/Klaviyo-111111?style=flat&logo=klaviyo&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black)
+![Meta Business Suite](https://img.shields.io/badge/Meta%20Business%20Suite-0866FF?style=flat&logo=meta&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-111111?style=flat&logo=googlesearchconsole&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email%20Marketing-444444?style=flat&logo=gmail&logoColor=white)
+![Content Strategy](https://img.shields.io/badge/Content%20Strategy-666666?style=flat&logo=notion&logoColor=white)
+![Customer Journey Mapping](https://img.shields.io/badge/Customer%20Journey%20Mapping-666666?style=flat&logo=miro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Social Media Marketing](https://img.shields.io/badge/Social%20Media%20Marketing-E4405F?style=flat&logo=instagram&logoColor=white)
+![Campaign Reporting](https://img.shields.io/badge/Campaign%20Reporting-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 ---
 
-## 🎮 Game Development
+### ⚡ Data Operations & Automation
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://unity.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="35" height="35" />
-      </a>
-      <br />Unity
-    </td>
-  </tr>
-</table>
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-111111?style=flat&logo=zapier&logoColor=white)
+![Data Entry](https://img.shields.io/badge/Data%20Entry-444444?style=flat&logo=googlesheets&logoColor=white)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-666666?style=flat&logo=airtable&logoColor=white)
+![Workflow Tools](https://img.shields.io/badge/Workflow%20Tools-555555?style=flat&logo=trello&logoColor=white)
 
 ---
 
-## 🛠 Other Tools
+### 🎨 Design & Creative
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35" />
-      </a>
-      <br />Git
-    </td>
-  </tr>
-</table>
+![Design Skills](https://skillicons.dev/icons?i=figma,ps,pr,wordpress)
+
+**Figma · Photoshop · Premiere Pro · Canva · WordPress**
+
+---
+
+### 🎮 Game Development
+
+![Game Development Skills](https://skillicons.dev/icons?i=unity)
+
+**Unity · 2D game development · Pixel art workflows**
+
+---
+
+### 💻 Frontend
+
+![Frontend Skills](https://skillicons.dev/icons?i=react,redux,js,ts,html,css,sass,tailwind,vite)
+
+**React · Redux · JavaScript · TypeScript · HTML · CSS · Sass · Tailwind CSS · Vite · React Query · Storybook**
+
+---
+
+### ⚙️ Backend
+
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,knex)
+
+**Node.js · Express.js · MySQL · PostgreSQL · Knex.js · REST APIs**
+
+---
+
+### 🧪 Testing
+
+![Testing Skills](https://skillicons.dev/icons?i=jest,vitest)
+
+**Jest · Vitest**
+
+---
+
+### 🛠 Other Tools
+
+![Other Tools](https://skillicons.dev/icons?i=git,github)
+
+**Git · GitHub · Agile workflows**
+
+---
+
+## 🌱 Currently Interested In
+
+- Building polished and interactive web apps
+- Designing clean digital experiences
+- Exploring creative uses of AI in products
+- Improving front-end performance and accessibility
+- Creating cosy 2D game experiences with Unity
+- Working on projects that blend technology, design, and storytelling
