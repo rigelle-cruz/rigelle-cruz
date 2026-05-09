@@ -1,57 +1,156 @@
-# 👋 Hey there! I'm **Rigelle** (pronounced "Ri-jhell") – or "Rell" for short :)
+<div align="center">
 
-I’m a Software Engineer with full-stack experience and a background in digital marketing. I also love blending interactive design with smooth user experiences. Always learning new things too!  
+# Rigelle Cruz
 
-**💡 What excites me:** Crafting responsive, visually appealing, and interactive web applications 
+**Software Engineer · Full-Stack Developer · Digital Creative**
 
-**🤝 Let’s collaborate on:** Interactive web development and UI/UX design projects 
+Pronounced **“Ri-jhell”** — or **Rell** for short.
 
-**📫 Reach out to me:** [rigellecruz@gmail.com](mailto:rigellecruz@gmail.com)  
+I build responsive, thoughtful, and visually refined web experiences with a focus on clean interfaces, smooth interactions, and user-centred design.
 
-**🌐 Portfolio:** [View My Portfolio](https://rigelle-cruz.github.io/portfolio/) 
+<br />
 
-**Connect with me:** <a href="https://www.linkedin.com/in/rigelle-cruz-9b8116204" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="15" height="15">
-</a>
+[Portfolio](https://rigelle-cruz.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/rigelle-cruz-9b8116204) · [Email](mailto:rigellecruz@gmail.com)
 
-&nbsp;
+</div>
 
+---
 
-## 💻 Frontend
-<a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"></a>&nbsp;
-<a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="30" height="30"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"></a>&nbsp;
-<a href="https://www.w3.org/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"></a>&nbsp;
-<a href="https://www.w3schools.com/css/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"></a>&nbsp;
-<a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="30" height="30"></a>&nbsp;
-<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"></a>&nbsp;
-<a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="30" height="30"></a>&nbsp;
-<a href="https://tanstack.com/query/latest"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query" width="30" height="30"></a>&nbsp;
-<a href="https://storybook.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="30" height="30"></a>
+## About
 
+I’m a software engineer with full-stack experience and a background in digital marketing.  
+My work sits at the intersection of development, design, and digital experience — creating products that are functional, intuitive, and visually considered.
 
-## ⚙️ Backend
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"></a>&nbsp;
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"></a>&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"></a>&nbsp;
-<a href="https://knexjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knexjs/knexjs-original.svg" alt="Knex.js" width="30" height="30"></a>&nbsp;
-<a href="https://restfulapi.net/"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="REST API" width="30" height="30"></a>
+I enjoy crafting interactive web applications, improving user journeys, and bringing creative ideas to life through code.
 
+---
 
-## 🧪 Testing
-<a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="30" height="30"></a>&nbsp;
-<a href="https://vitest.dev/"><img src="https://vitest.dev/logo.svg" alt="Vitest" width="30" height="30"></a>
+## Focus Areas
 
+- Full-stack web development
+- Interactive front-end experiences
+- UI/UX design and prototyping
+- Responsive and accessible interfaces
+- Digital marketing and creative strategy
+- 2D game development and pixel art workflows
 
-## 🎨 Design & Creative Tools
-<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"></a>&nbsp;
-<a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="30"></a>&nbsp;
-<a href="https://www.adobe.com/products/premiere.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="30" height="30"></a>&nbsp;
-<a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="30" height="30"></a>&nbsp;
-<a href="https://wordpress.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="30" height="30"></a>
+---
 
+## Tech Stack
 
-## 🛠 Other Tools
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"></a>
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="32" height="32" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="32" height="32" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="React Query" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="32" height="32" />
+</p>
+
+**React · Redux · JavaScript · TypeScript · HTML · CSS · Sass · Tailwind CSS · Vite · React Query · Storybook**
+
+---
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knexjs/knexjs-original.svg" alt="Knex.js" width="32" height="32" />
+</p>
+
+**Node.js · Express.js · REST APIs · MySQL · PostgreSQL · Knex.js**
+
+---
+
+### Testing
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="32" height="32" />
+  &nbsp;
+  <img src="https://vitest.dev/logo.svg" alt="Vitest" width="32" height="32" />
+</p>
+
+**Jest · Vitest**
+
+---
+
+### Design & Creative
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="32" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="32" height="32" />
+</p>
+
+**Figma · Adobe Photoshop · Adobe Premiere Pro · Canva · WordPress**
+
+---
+
+### Game Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="32" height="32" />
+</p>
+
+**Unity · 2D game development · Pixel art workflows**
+
+---
+
+### Other Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32" />
+</p>
+
+**Git · GitHub · Agile workflows · Digital marketing tools**
+
+---
+
+## Currently Interested In
+
+- Building polished and interactive web apps
+- Designing clean digital experiences
+- Exploring creative uses of AI in products
+- Improving front-end performance and accessibility
+- Creating cosy 2D game experiences with Unity
+- Working on projects that blend technology, design, and storytelling
+
+---
+
+<div align="center">
+
+### Let’s build something thoughtful.
+
+[Portfolio](https://rigelle-cruz.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/rigelle-cruz-9b8116204) · [Email](mailto:rigellecruz@gmail.com)
+
+</div>
