@@ -2,8 +2,6 @@
 
 I’m a Software Engineer with full-stack experience and a background in digital marketing. I also love blending interactive design with smooth user experiences. Always learning new things too!  
 
-**🌱 What I’m working on:** App Development for [**Huddle**](https://rigelle-cruz.github.io/portfolio/) an on-going personal project
-
 **💡 What excites me:** Crafting responsive, visually appealing, and interactive web applications 
 
 **🤝 Let’s collaborate on:** Interactive web development and UI/UX design projects 
