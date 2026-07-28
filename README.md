@@ -1,8 +1,6 @@
-# 👋 Hey, I’m Rigelle Cruz
+# 👋 Hey, I’m Rell Cruz
 
 **Digital Creative · Marketer · Data Automation Specialist · Software Engineer · Full-Stack Developer**
-
-Pronounced **“Ri-jhell”** — or **Rell** for short.
 
 [🌐 Portfolio](https://rigelle-cruz.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/rigelle-cruz-9b8116204) · [📫 Email](mailto:rigellecruz@gmail.com)
 
